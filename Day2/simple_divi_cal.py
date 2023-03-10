@@ -1,10 +1,5 @@
 # 3 + 5
 import math
-# 7 - 5
-# 4 * 5
-# 6 / 5
-#print (3 * 3 + 6 / 5 - 3)
-
 # Calculate BMI (Body mass Index) not the formula is as show below.
 # BMI =  WEIGHT (KG)/ height  square (m2)
 height = input("Enter your hight: ")
