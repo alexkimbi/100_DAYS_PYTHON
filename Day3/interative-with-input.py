@@ -5,7 +5,7 @@ if name == "song":
     print ("you are good to go")
 else:
     print ("you got it wrong")
-
+    print("Thanks Alex for your input")
 
 
            
