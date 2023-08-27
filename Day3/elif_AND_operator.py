@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #This will print tickets for a roller custer rides and charge the price based on age. 
-age = int(input("What is your age?"))
+age = int(input("What is your age?\n"))
 print("======Tickets are sold and prices are determined based on buyer's age=====")
 if age >= 18 and age < 41:
     print("You are above 18 years so you are considered as an adult and will pay reg amount")
