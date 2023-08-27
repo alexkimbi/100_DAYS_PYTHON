@@ -1,4 +1,4 @@
-#!/usr/binpython3
+#!/usr/bin/python3
 name = input("What is the name you are talking about?")
 print("You just told me your name is "  +  name.upper())
 if name == "song":
